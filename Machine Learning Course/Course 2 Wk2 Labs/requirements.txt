@@ -1,0 +1,8 @@
+ipython
+ipywidgets
+matplotlib
+numpy
+scikit_learn
+ipykernel
+tensorflow
+ipympl
